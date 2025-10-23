@@ -50,11 +50,14 @@ function Invoke-TherapeuticResponse {
     # Charger les interactions existantes
     $AllInteractions = @()
     if (Test-Path $DataFile) {
-        $AllInteractions = Get-Content $DataFile -Raw | ConvertFrom-Json
+        $JsonContent = Get-Content $DataFile -Raw | ConvertFrom-Json
+        if ($JsonContent) {
+            $AllInteractions = @($JsonContent)
+        }
     }
     
     # Ajouter la nouvelle interaction
-    $AllInteractions += $Interaction
+    $AllInteractions = $AllInteractions + $Interaction
     
     # Sauvegarder
     $AllInteractions | ConvertTo-Json | Set-Content $DataFile
