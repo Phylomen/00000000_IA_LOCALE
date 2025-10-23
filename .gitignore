@@ -1,0 +1,23 @@
+# Logs
+logs/*.log
+logs/*
+
+# Keep the logs directory structure
+!logs/.gitkeep
+
+# Data files (contains user interactions - excluded for privacy)
+data/*.json
+data/*
+!data/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# PowerShell
+*.ps1~

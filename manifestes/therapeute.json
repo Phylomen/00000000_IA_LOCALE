@@ -1,0 +1,17 @@
+{
+  "name": "therapeute",
+  "version": "1.0.0",
+  "description": "Agent thérapeutique spécialisé dans l'accompagnement émotionnel",
+  "type": "agent",
+  "capabilities": [
+    "écoute active",
+    "conseils thérapeutiques",
+    "support émotionnel",
+    "exercices de relaxation"
+  ],
+  "parameters": {
+    "responseStyle": "empathique",
+    "maxResponseLength": 500,
+    "supportedLanguages": ["fr-FR"]
+  }
+}

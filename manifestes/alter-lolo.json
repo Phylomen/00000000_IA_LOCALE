@@ -1,0 +1,32 @@
+{
+  "name": "alter-lolo",
+  "version": "1.0.0",
+  "description": "Agent suprême thérapeutique ludique - IA locale",
+  "author": "Phylomen",
+  "type": "orchestrator",
+  "agents": [
+    {
+      "name": "therapeute",
+      "script": "therapeute.ps1",
+      "description": "Agent thérapeutique pour l'accompagnement",
+      "enabled": true,
+      "parameters": {
+        "Message": "Comment puis-je vous aider aujourd'hui ?"
+      }
+    },
+    {
+      "name": "ludique",
+      "script": "ludique.ps1",
+      "description": "Agent ludique pour le divertissement",
+      "enabled": true,
+      "parameters": {
+        "Activity": "random"
+      }
+    }
+  ],
+  "settings": {
+    "logLevel": "INFO",
+    "autoStart": true,
+    "language": "fr-FR"
+  }
+}

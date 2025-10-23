@@ -1,0 +1,17 @@
+{
+  "name": "ludique",
+  "version": "1.0.0",
+  "description": "Agent ludique pour le divertissement et les activités récréatives",
+  "type": "agent",
+  "capabilities": [
+    "blagues",
+    "devinettes",
+    "conseils quotidiens",
+    "mini-jeux"
+  ],
+  "parameters": {
+    "activityTypes": ["blague", "devinette", "conseil"],
+    "difficulty": "facile",
+    "supportedLanguages": ["fr-FR"]
+  }
+}
