@@ -48,16 +48,20 @@ function Invoke-TherapeuticResponse {
     $DataFile = Join-Path $DataPath "interactions.json"
     
     # Charger les interactions existantes
-    $AllInteractions = @()
+    $AllInteractions = [System.Collections.ArrayList]@()
     if (Test-Path $DataFile) {
         $JsonContent = Get-Content $DataFile -Raw | ConvertFrom-Json
         if ($JsonContent) {
-            $AllInteractions = @($JsonContent)
+            if ($JsonContent -is [array]) {
+                $AllInteractions.AddRange($JsonContent)
+            } else {
+                $AllInteractions.Add($JsonContent) | Out-Null
+            }
         }
     }
     
     # Ajouter la nouvelle interaction
-    $AllInteractions = $AllInteractions + $Interaction
+    $AllInteractions.Add($Interaction) | Out-Null
     
     # Sauvegarder
     $AllInteractions | ConvertTo-Json | Set-Content $DataFile
