@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-10-23 21:40:40",
+  "harmonie_globale": 0.87,
+  "agents": [
+    {
+      "statut": "actif",
+      "nom": "alter-lolo",
+      "resonance": 0.9
+    },
+    {
+      "statut": "monitoring",
+      "nom": "vibration-checker",
+      "resonance": 0.85
+    },
+    {
+      "statut": "veille",
+      "nom": "friction-detector",
+      "resonance": 0.8
+    },
+    {
+      "statut": "harmonisation",
+      "nom": "harmony-builder",
+      "resonance": 0.95
+    }
+  ]
+}

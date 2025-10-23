@@ -1,0 +1,23 @@
+{
+  "module": "vibration-core",
+  "description": "Noyau de détection et gestion des vibrations thérapeutiques",
+  "frequences_therapeutiques": {
+    "liberation": 396,
+    "transformation": 417,
+    "amour": 528,
+    "expression": 741,
+    "intuition": 852,
+    "connexion": 963
+  },
+  "parametres_detection": {
+    "intervalle_mesure_ms": 1000,
+    "historique_max": 100,
+    "lissage_actif": true,
+    "auto_calibrage": true
+  },
+  "actions_automatiques": {
+    "friction_detectee": "reduire_intensite",
+    "resonance_optimale": "maintenir_frequence",
+    "dissonance": "harmoniser_progressivement"
+  }
+}

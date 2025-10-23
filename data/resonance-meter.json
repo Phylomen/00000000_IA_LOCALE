@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-10-23 00:00:00",
+    "frequence_moyenne": 432,
+    "intensite_moyenne": 0.7,
+    "qualite_resonance": 0.75,
+    "harmoniques_detectees": [
+      432,
+      528
+    ],
+    "note": "Mesure initiale système"
+  },
+  {
+    "timestamp": "2025-10-23 21:41:59",
+    "qualite_resonance": 0.85,
+    "frequence_moyenne": 528,
+    "intensite_moyenne": 0.75
+  },
+  {
+    "timestamp": "2025-10-23 21:42:08",
+    "qualite_resonance": 0.85,
+    "frequence_moyenne": 528,
+    "intensite_moyenne": 0.75
+  },
+  {
+    "timestamp": "2025-10-23 22:15:30",
+    "qualite_resonance": 0.85,
+    "frequence_moyenne": 528,
+    "intensite_moyenne": 0.75
+  },
+  {
+    "timestamp": "2025-10-23 22:17:12",
+    "qualite_resonance": 0.85,
+    "frequence_moyenne": 528,
+    "intensite_moyenne": 0.75
+  },
+  {
+    "timestamp": "2025-10-23 22:19:22",
+    "qualite_resonance": 0.85,
+    "frequence_moyenne": 528,
+    "intensite_moyenne": 0.75
+  },
+  {
+    "timestamp": "2025-10-23 22:34:42",
+    "frequence_moyenne": 447.0,
+    "intensite_moyenne": 0.52,
+    "qualite_resonance": 0.758171145642111
+  }
+]

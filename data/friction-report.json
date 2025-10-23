@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-10-23 22:34:42",
+  "seuil_utilise": 0.3,
+  "frictions_detectees": [
+    {
+      "zone": "emotionnel",
+      "niveau": 0.82,
+      "timestamp": "2025-10-23 22:34:42",
+      "recommandation": "Expression créative ou dialogue bienveillant"
+    },
+    {
+      "zone": "physique",
+      "niveau": 0.42,
+      "timestamp": "2025-10-23 22:34:42",
+      "recommandation": "Mouvement doux ou étirement"
+    },
+    {
+      "zone": "social",
+      "niveau": 0.47,
+      "timestamp": "2025-10-23 22:34:42",
+      "recommandation": "Communication authentique ou retrait temporaire"
+    }
+  ],
+  "statut": "attention_requise"
+}

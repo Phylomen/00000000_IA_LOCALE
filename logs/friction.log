@@ -1,0 +1,49 @@
+[2025-10-23 00:00:00] [SYSTEM] Initialisation des logs de friction[2025-10-23 21:40:39] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-23 21:40:39] [FRICTION-DETECTOR] Frictions détectées dans 3 zone(s)
+[2025-10-23 21:40:39] [FRICTION-DETECTOR] FRICTION [mental]: Niveau 0.59 - Méditation ou respiration consciente
+[2025-10-23 21:40:39] [FRICTION-DETECTOR] FRICTION [emotionnel]: Niveau 0.42 - Expression créative ou dialogue bienveillant
+[2025-10-23 21:40:39] [FRICTION-DETECTOR] FRICTION [social]: Niveau 0.98 - Communication authentique ou retrait temporaire
+[2025-10-23 21:40:39] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-23 21:41:33] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-23 21:41:33] [FRICTION-DETECTOR] Frictions détectées dans 4 zone(s)
+[2025-10-23 21:41:33] [FRICTION-DETECTOR] FRICTION [mental]: Niveau 0.36 - Méditation ou respiration consciente
+[2025-10-23 21:41:33] [FRICTION-DETECTOR] FRICTION [emotionnel]: Niveau 0.63 - Expression créative ou dialogue bienveillant
+[2025-10-23 21:41:33] [FRICTION-DETECTOR] FRICTION [physique]: Niveau 0.85 - Mouvement doux ou étirement
+[2025-10-23 21:41:34] [FRICTION-DETECTOR] FRICTION [social]: Niveau 0.57 - Communication authentique ou retrait temporaire
+[2025-10-23 21:41:34] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-23 21:41:59] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-23 21:41:59] [FRICTION-DETECTOR] Frictions détectées dans 2 zone(s)
+[2025-10-23 21:41:59] [FRICTION-DETECTOR] FRICTION [mental]: Niveau 0.59 - Méditation ou respiration consciente
+[2025-10-23 21:41:59] [FRICTION-DETECTOR] FRICTION [emotionnel]: Niveau 0.49 - Expression créative ou dialogue bienveillant
+[2025-10-23 21:41:59] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-23 22:15:30] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-23 22:15:30] [FRICTION-DETECTOR] Frictions détectées dans 2 zone(s)
+[2025-10-23 22:15:30] [FRICTION-DETECTOR] FRICTION [physique]: Niveau 0.48 - Mouvement doux ou étirement
+[2025-10-23 22:15:30] [FRICTION-DETECTOR] FRICTION [energetique]: Niveau 0.99 - Ancrage ou harmonisation fréquentielle
+[2025-10-23 22:15:30] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-23 22:17:12] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-23 22:17:12] [FRICTION-DETECTOR] Frictions détectées dans 4 zone(s)
+[2025-10-23 22:17:12] [FRICTION-DETECTOR] FRICTION [emotionnel]: Niveau 0.64 - Expression créative ou dialogue bienveillant
+[2025-10-23 22:17:12] [FRICTION-DETECTOR] FRICTION [physique]: Niveau 0.76 - Mouvement doux ou étirement
+[2025-10-23 22:17:12] [FRICTION-DETECTOR] FRICTION [energetique]: Niveau 0.78 - Ancrage ou harmonisation fréquentielle
+[2025-10-23 22:17:12] [FRICTION-DETECTOR] FRICTION [social]: Niveau 0.47 - Communication authentique ou retrait temporaire
+[2025-10-23 22:17:12] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-23 22:19:22] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-23 22:19:22] [FRICTION-DETECTOR] Frictions détectées dans 4 zone(s)
+[2025-10-23 22:19:22] [FRICTION-DETECTOR] FRICTION [mental]: Niveau 0.48 - Méditation ou respiration consciente
+[2025-10-23 22:19:22] [FRICTION-DETECTOR] FRICTION [physique]: Niveau 0.37 - Mouvement doux ou étirement
+[2025-10-23 22:19:22] [FRICTION-DETECTOR] FRICTION [energetique]: Niveau 0.84 - Ancrage ou harmonisation fréquentielle
+[2025-10-23 22:19:22] [FRICTION-DETECTOR] FRICTION [social]: Niveau 0.31 - Communication authentique ou retrait temporaire
+[2025-10-23 22:19:22] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-23 22:24:55] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-23 22:24:55] [FRICTION-DETECTOR] Génération du rapport de frictions
+[2025-10-23 22:24:55] [FRICTION-DETECTOR] Dernier rapport: attention_requise - 4 friction(s)
+[2025-10-23 22:24:55] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-23 22:25:30] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-23 22:25:30] [FRICTION-DETECTOR] Génération du rapport de frictions
+[2025-10-23 22:25:30] [FRICTION-DETECTOR] Dernier rapport: attention_requise - 4 friction(s)
+[2025-10-23 22:25:30] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-23 22:27:53] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-23 22:27:53] [FRICTION-DETECTOR] Génération du rapport de frictions
+[2025-10-23 22:27:53] [FRICTION-DETECTOR] Dernier rapport: attention_requise - 4 friction(s)
+[2025-10-23 22:27:53] [FRICTION-DETECTOR] Fin détection frictions
