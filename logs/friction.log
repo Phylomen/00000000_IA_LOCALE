@@ -47,3 +47,27 @@
 [2025-10-23 22:27:53] [FRICTION-DETECTOR] Génération du rapport de frictions
 [2025-10-23 22:27:53] [FRICTION-DETECTOR] Dernier rapport: attention_requise - 4 friction(s)
 [2025-10-23 22:27:53] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-26 17:26:32] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-26 17:26:32] [FRICTION-DETECTOR] Génération du rapport de frictions
+[2025-10-26 17:26:32] [FRICTION-DETECTOR] Dernier rapport: attention_requise - 3 friction(s)
+[2025-10-26 17:26:32] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-26 17:30:10] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-26 17:30:10] [FRICTION-DETECTOR] Génération du rapport de frictions
+[2025-10-26 17:30:10] [FRICTION-DETECTOR] Dernier rapport: attention_requise - 3 friction(s)
+[2025-10-26 17:30:10] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-26 17:56:21] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-26 17:56:21] [FRICTION-DETECTOR] Frictions détectées dans 4 zone(s)
+[2025-10-26 17:56:21] [FRICTION-DETECTOR] FRICTION [social]: Niveau 0.52 - Communication authentique ou retrait temporaire
+[2025-10-26 17:56:21] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-26 18:07:46] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-26 18:07:46] [FRICTION-DETECTOR] Frictions détectées dans 3 zone(s)
+[2025-10-26 18:07:46] [FRICTION-DETECTOR] FRICTION [mental]: Niveau 0.67 - Méditation ou respiration consciente
+[2025-10-26 18:07:46] [FRICTION-DETECTOR] FRICTION [energetique]: Niveau 0.94 - Ancrage ou harmonisation fréquentielle
+[2025-10-26 18:07:46] [FRICTION-DETECTOR] FRICTION [social]: Niveau 0.6 - Communication authentique ou retrait temporaire
+[2025-10-26 18:07:46] [FRICTION-DETECTOR] Fin détection frictions
+[2025-10-27 08:37:31] [FRICTION-DETECTOR] Démarrage détection frictions - Seuil: 0.3
+[2025-10-27 08:37:31] [FRICTION-DETECTOR] Frictions détectées dans 3 zone(s)
+[2025-10-27 08:37:31] [FRICTION-DETECTOR] FRICTION [mental]: Niveau 0.9 - Méditation ou respiration consciente
+[2025-10-27 08:37:31] [FRICTION-DETECTOR] FRICTION [emotionnel]: Niveau 1 - Expression créative ou dialogue bienveillant
+[2025-10-27 08:37:31] [FRICTION-DETECTOR] FRICTION [social]: Niveau 0.83 - Communication authentique ou retrait temporaire
+[2025-10-27 08:37:31] [FRICTION-DETECTOR] Fin détection frictions

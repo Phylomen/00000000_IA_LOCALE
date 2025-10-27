@@ -190,3 +190,83 @@
 [2025-10-23 22:34:42] [FRICTION-DETECTOR] FRICTION [social]: Niveau 0.47 - Communication authentique ou retrait temporaire
 [2025-10-23 22:34:42] [SUCCESS] Résonance globale OPTIMALE
 [2025-10-23 22:34:42] [SYSTEM] === ALTER-LOLO EN VEILLE ===
+[2025-10-26 17:26:32] [SYSTEM] === ÉVEIL D'ALTER-LOLO ===
+[2025-10-26 17:26:32] [INFO] Permissions validées: lire_manifestes, orchestrer_agents, ecrire_logs, modifier_etats, autonomie_complete
+[2025-10-26 17:26:32] [INFO] Diagnostic de l'écosystème
+[2025-10-26 17:26:32] [INFO] Invocation agent: vibration-checker
+[2025-10-26 17:26:32] [VIBRATION-CHECKER] Démarrage vérification vibratoire - Mode: diagnostic
+[2025-10-26 17:26:32] [VIBRATION-CHECKER] Diagnostic complet des vibrations
+[2025-10-26 17:26:32] [VIBRATION-CHECKER] Dernière mesure: Fréq=447Hz, Qualité=0.758171145642111
+[2025-10-26 17:26:32] [VIBRATION-CHECKER] Fin vérification vibratoire
+[2025-10-26 17:26:32] [INFO] Invocation agent: friction-detector
+[2025-10-26 17:26:32] [SYSTEM] === ALTER-LOLO EN VEILLE ===
+[2025-10-26 17:30:10] [SYSTEM] === ÉVEIL D'ALTER-LOLO ===
+[2025-10-26 17:30:10] [INFO] Permissions validées: lire_manifestes, orchestrer_agents, ecrire_logs, modifier_etats, autonomie_complete
+[2025-10-26 17:30:10] [INFO] Diagnostic de l'écosystème
+[2025-10-26 17:30:10] [INFO] Invocation agent: vibration-checker
+[2025-10-26 17:30:10] [VIBRATION-CHECKER] Démarrage vérification vibratoire - Mode: diagnostic
+[2025-10-26 17:30:10] [VIBRATION-CHECKER] Diagnostic complet des vibrations
+[2025-10-26 17:30:10] [VIBRATION-CHECKER] Dernière mesure: Fréq=447Hz, Qualité=0.758171145642111
+[2025-10-26 17:30:10] [VIBRATION-CHECKER] Fin vérification vibratoire
+[2025-10-26 17:30:10] [INFO] Invocation agent: friction-detector
+[2025-10-26 17:30:10] [SYSTEM] === ALTER-LOLO EN VEILLE ===
+[2025-10-26 17:56:11] [SYSTEM] === ÉVEIL D'ALTER-LOLO ===
+[2025-10-26 17:56:11] [INFO] Permissions validées: lire_manifestes, orchestrer_agents, ecrire_logs, modifier_etats, autonomie_complete
+[2025-10-26 17:56:11] [INFO] Début d'orchestration thérapeutique
+[2025-10-26 17:56:11] [INFO] Invocation agent: vibration-checker
+[2025-10-26 17:56:11] [VIBRATION-CHECKER] Démarrage vérification vibratoire - Mode: scan
+[2025-10-26 17:56:11] [VIBRATION-CHECKER] Scan des fréquences ambiantes
+[2025-10-26 17:56:11] [VIBRATION-CHECKER] Fréquence détectée: 528Hz - Intensité: 0.71
+[2025-10-26 17:56:12] [VIBRATION-CHECKER] Fréquence détectée: 432Hz - Intensité: 0.98
+[2025-10-26 17:56:13] [VIBRATION-CHECKER] Fréquence détectée: 396Hz - Intensité: 0.21
+[2025-10-26 17:56:14] [VIBRATION-CHECKER] Fréquence détectée: 852Hz - Intensité: 0.36
+[2025-10-26 17:56:15] [VIBRATION-CHECKER] Fréquence détectée: 396Hz - Intensité: 0.76
+[2025-10-26 17:56:16] [VIBRATION-CHECKER] Fréquence détectée: 963Hz - Intensité: 0.84
+[2025-10-26 17:56:17] [VIBRATION-CHECKER] Fréquence détectée: 396Hz - Intensité: 0.99
+[2025-10-26 17:56:18] [VIBRATION-CHECKER] Fréquence détectée: 852Hz - Intensité: 0.16
+[2025-10-26 17:56:19] [VIBRATION-CHECKER] Fréquence détectée: 852Hz - Intensité: 0.72
+[2025-10-26 17:56:20] [VIBRATION-CHECKER] Fréquence détectée: 963Hz - Intensité: 0.41
+[2025-10-26 17:56:21] [VIBRATION-CHECKER] Fin vérification vibratoire
+[2025-10-26 17:56:21] [INFO] Invocation agent: friction-detector
+[2025-10-26 17:56:21] [SUCCESS] Résonance globale OPTIMALE
+[2025-10-26 17:56:21] [SYSTEM] === ALTER-LOLO EN VEILLE ===
+[2025-10-26 18:07:35] [SYSTEM] === ÉVEIL D'ALTER-LOLO ===
+[2025-10-26 18:07:35] [INFO] Permissions validées: lire_manifestes, orchestrer_agents, ecrire_logs, modifier_etats, autonomie_complete
+[2025-10-26 18:07:35] [INFO] Début d'orchestration thérapeutique
+[2025-10-26 18:07:35] [INFO] Invocation agent: vibration-checker
+[2025-10-26 18:07:36] [VIBRATION-CHECKER] Démarrage vérification vibratoire - Mode: scan
+[2025-10-26 18:07:36] [VIBRATION-CHECKER] Scan des fréquences ambiantes
+[2025-10-26 18:07:36] [VIBRATION-CHECKER] Fréquence détectée: 417Hz - Intensité: 0.72
+[2025-10-26 18:07:37] [VIBRATION-CHECKER] Fréquence détectée: 432Hz - Intensité: 0.97
+[2025-10-26 18:07:38] [VIBRATION-CHECKER] Fréquence détectée: 396Hz - Intensité: 0.29
+[2025-10-26 18:07:39] [VIBRATION-CHECKER] Fréquence détectée: 417Hz - Intensité: 0.99
+[2025-10-26 18:07:40] [VIBRATION-CHECKER] Fréquence détectée: 528Hz - Intensité: 0.44
+[2025-10-26 18:07:41] [VIBRATION-CHECKER] Fréquence détectée: 963Hz - Intensité: 0.93
+[2025-10-26 18:07:42] [VIBRATION-CHECKER] Fréquence détectée: 396Hz - Intensité: 0.18
+[2025-10-26 18:07:43] [VIBRATION-CHECKER] Fréquence détectée: 852Hz - Intensité: 0.81
+[2025-10-26 18:07:44] [VIBRATION-CHECKER] Fréquence détectée: 417Hz - Intensité: 0.4
+[2025-10-26 18:07:45] [VIBRATION-CHECKER] Fréquence détectée: 417Hz - Intensité: 0.16
+[2025-10-26 18:07:46] [VIBRATION-CHECKER] Fin vérification vibratoire
+[2025-10-26 18:07:46] [INFO] Invocation agent: friction-detector
+[2025-10-26 18:07:46] [SUCCESS] Résonance globale OPTIMALE
+[2025-10-26 18:07:46] [SYSTEM] === ALTER-LOLO EN VEILLE ===
+[2025-10-27 08:37:21] [SYSTEM] === ÉVEIL D'ALTER-LOLO ===
+[2025-10-27 08:37:21] [INFO] Permissions validées: lire_manifestes, orchestrer_agents, ecrire_logs, modifier_etats, autonomie_complete
+[2025-10-27 08:37:21] [INFO] Début d'orchestration thérapeutique
+[2025-10-27 08:37:21] [INFO] Invocation agent: vibration-checker
+[2025-10-27 08:37:21] [VIBRATION-CHECKER] Démarrage vérification vibratoire - Mode: scan
+[2025-10-27 08:37:21] [VIBRATION-CHECKER] Scan des fréquences ambiantes
+[2025-10-27 08:37:21] [VIBRATION-CHECKER] Fréquence détectée: 417Hz - Intensité: 0.23
+[2025-10-27 08:37:22] [VIBRATION-CHECKER] Fréquence détectée: 741Hz - Intensité: 0.29
+[2025-10-27 08:37:23] [VIBRATION-CHECKER] Fréquence détectée: 528Hz - Intensité: 0.26
+[2025-10-27 08:37:24] [VIBRATION-CHECKER] Fréquence détectée: 417Hz - Intensité: 0.23
+[2025-10-27 08:37:25] [VIBRATION-CHECKER] Fréquence détectée: 852Hz - Intensité: 0.11
+[2025-10-27 08:37:26] [VIBRATION-CHECKER] Fréquence détectée: 741Hz - Intensité: 0.46
+[2025-10-27 08:37:27] [VIBRATION-CHECKER] Fréquence détectée: 741Hz - Intensité: 0.31
+[2025-10-27 08:37:28] [VIBRATION-CHECKER] Fréquence détectée: 852Hz - Intensité: 0.75
+[2025-10-27 08:37:29] [VIBRATION-CHECKER] Fréquence détectée: 528Hz - Intensité: 0.9
+[2025-10-27 08:37:30] [VIBRATION-CHECKER] Fréquence détectée: 396Hz - Intensité: 0.92
+[2025-10-27 08:37:31] [VIBRATION-CHECKER] Fin vérification vibratoire
+[2025-10-27 08:37:31] [INFO] Invocation agent: friction-detector
+[2025-10-27 08:37:31] [SUCCESS] Résonance globale OPTIMALE
+[2025-10-27 08:37:31] [SYSTEM] === ALTER-LOLO EN VEILLE ===

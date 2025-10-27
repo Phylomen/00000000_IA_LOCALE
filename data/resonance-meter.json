@@ -45,5 +45,23 @@
     "frequence_moyenne": 447.0,
     "intensite_moyenne": 0.52,
     "qualite_resonance": 0.758171145642111
+  },
+  {
+    "timestamp": "2025-10-26 17:56:21",
+    "frequence_moyenne": 528,
+    "qualite_resonance": 0.85,
+    "intensite_moyenne": 0.75
+  },
+  {
+    "timestamp": "2025-10-26 18:07:46",
+    "frequence_moyenne": 528,
+    "qualite_resonance": 0.85,
+    "intensite_moyenne": 0.75
+  },
+  {
+    "timestamp": "2025-10-27 08:37:31",
+    "frequence_moyenne": 528,
+    "qualite_resonance": 0.85,
+    "intensite_moyenne": 0.75
   }
 ]
